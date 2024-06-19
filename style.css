@@ -11,7 +11,7 @@ body{
 }
 
 h1{
-    color: rebeccapurple; 
+    color: floralwhite; 
     text-decoration-line: underline;
     display:flex;
     flex-direction: row;
@@ -21,4 +21,20 @@ h1{
 
 h2{
     color:black;
+}
+
+/*
+.paragraph{
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
+}
+#exclusive-title{
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+}
+*/
+.color-name{
+    color:crimson;
 }
